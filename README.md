@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, Immanuella Eklesia Lumbantobing</h1>
-<h3 align="center">3rd Student Information System</h3>
+<h3 align="center">3rd Year Information System Student at Institute of Technology Del</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <h3 align="left">Connect with me:</h3>
