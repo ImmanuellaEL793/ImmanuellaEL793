@@ -1,3 +1,6 @@
+<img align="center" alt="Coding" width="400" src="WhatsApp Image 2023-11-06 at 16.45.39_c166ee99.jpg"> <img align="center" alt="Coding" width="400" src="WhatsApp Image 2023-11-06 at 16.45.39_c166ee99.jpg">
+
+
 <h1 align="center">Hi 👋, Immanuella Eklesia Lumbantobing</h1>
 <h3 align="center">3rd Student Information System</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
