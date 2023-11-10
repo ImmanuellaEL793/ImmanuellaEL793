@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="WhatsApp Image 2023-11-06 at 16.45.39_c166ee99.jpg"> <img align="center" alt="Coding" width="400" src="WhatsApp Image 2023-11-06 at 16.45.39_c166ee99.jpg">
+<img align="center" alt="Coding" width="490" src="WhatsApp Image 2023-11-06 at 16.45.39_c166ee99.jpg"> <img align="center" alt="Coding" width="368" src="WhatsApp Image 2023-09-10 at 11.38.25.jpg">
 
 
 <h1 align="center">Hi 👋, Immanuella Eklesia Lumbantobing</h1>
